@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HelloWorld
+  description: An example deployment of a Backstage application.
+  annotations:
+    github.com/project-slug: thalam/spring-hello
+spec:
+  type: website
+  owner: Nihanth Joseph
+  lifecycle: experimental
