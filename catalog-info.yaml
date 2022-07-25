@@ -9,3 +9,7 @@ spec:
   type: website
   owner: Nihanth Joseph
   lifecycle: experimental
+  dependsOn:
+    - resource:thalam/demoA
+    - resource:thalam/demoB
+    
