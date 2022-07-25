@@ -11,5 +11,5 @@ spec:
   lifecycle: experimental
   dependsOn:
     - resource:thalam/DemoA
-    - resource:default/DemoB
+    - resource:DemoB
     
