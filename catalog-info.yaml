@@ -12,6 +12,6 @@ spec:
   owner: Nihanth Joseph
   lifecycle: experimental
   dependsOn:
-    - resource:thalam/DemoA
-    - resource:DemoB
+    - resource:library/DemoA
+    - resource:library/DemoB
     
